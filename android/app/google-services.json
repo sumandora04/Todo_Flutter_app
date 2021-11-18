@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "393852329780",
+    "project_id": "clear-todos-4b748",
+    "storage_bucket": "clear-todos-4b748.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:393852329780:android:f41932cf2c1e2f6bbe0f61",
+        "android_client_info": {
+          "package_name": "com.sumanshekhar.publicissapient.todo_clear"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "393852329780-k3tcfeospg7h2t8dh293i0uji0s5k17s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfLkF970wskOQT-EdXB46ciSE6fNq8Ns8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "393852329780-k3tcfeospg7h2t8dh293i0uji0s5k17s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
